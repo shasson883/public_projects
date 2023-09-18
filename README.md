@@ -1,6 +1,6 @@
 # README for Public Projects Repository
 ## Introduction
-This GitHub repository, titled "Public Projects," serves as a portfolio of various projects I have worked on. The objective is to showcase my skillset to potential employers, recruiters, and other interested parties. Below you will find a list of these projects with brief descriptions and an overview of the skills and software utilised in each.
+This GitHub repository serves as a portfolio of various personal projects I have worked on. Below you will find a list of these projects with brief descriptions and an overview of the skills and software utilised in each.
 
 
 ## EDA Global YouTube Statistics
