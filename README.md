@@ -1,36 +1,66 @@
-# README for Public Projects Repository
-## Introduction
-This GitHub repository serves as a portfolio of various personal projects I have worked on. Below you will find a list of these projects with brief descriptions and an overview of the skills and software utilised in each.
+📂 Public Projects Repository
+Introduction
 
+This repository serves as a curated portfolio of selected data analytics projects, showcasing a range of technical skills across data exploration, dashboarding, and machine learning. The aim is to demonstrate my practical capabilities using Python, Power BI, Tableau, and other tools across real-world and simulated datasets.
 
-## EDA Global YouTube Statistics
-### About
-This project focuses on exploratory data analysis (EDA) of global YouTube statistics. The aim is to uncover patterns and insights related to video views, subscribers, revenue, and other engagement metrics across various YouTube channels.
+Explore the sections below for more detail on each project.
 
-### Skills / Software Used
-- Python
+🧠 Machine Learning
+MSC Thesis – Machine Learning Customer Churn Prediction
 
-## EDA Irish Accommodations
-### About
-In this project, I have carried out an in-depth exploratory data analysis on the accommodations sector in Ireland. It covers a range of data points including types of accommodation, and geographical distribution. I used Python for data cleaning and transformation, which subsequently formed the basis for the Tableau visualisations and dashboard creation.
+A comprehensive machine learning project developed as part of my MSc in Data Analytics. The project involved building predictive models to classify and forecast customer churn using telecom industry data. It includes full data preprocessing, model selection, evaluation (ROC AUC, F1), and interpretation using SHAP values.
 
-### Skills / Software Used
-- Python
-- Tableau
+Skills / Tools:
 
-## Workout Dashboard
-### About
-The Workout Dashboard is designed to provide an intuitive and insightful visual representation of an individual's workout statistics. The dashboard includes key metrics such as workout statistics and KPIs, distribution, and types of exercises performed.
+Python (pandas, scikit-learn, XGBoost, SHAP)
 
-### Skills / Software Used
-- Cloud Google Drive
-- Power BI
+Model Evaluation & Feature Importance
 
-## Company X Profit & Loss Dashboard
-### About
-This dashboard provides a comprehensive overview of Company X's profit and loss metrics. It offers visual aids and data points that help in understanding revenue streams, expenditures, and overall financial performance.
+Academic Report Writing
 
-### Skills / Software Used
-- PowerBI
+📊 Power BI
+Financial & Sales Dashboards
 
-Feel free to browse through the projects and reach out with any questions or comments. Thank you for visiting my "Public Projects" repository.
+This section includes screenshots of dynamic dashboards built in Power BI for internal finance and commercial reporting. The dashboards visualize KPIs across profit & loss, sales pipeline, customer segments, and month-end reporting.
+
+Skills / Tools:
+
+Power BI
+
+DAX, Power Query (M-code)
+
+Financial & Sales KPIs
+
+Data Modeling and Storytelling
+
+🐍 Python
+Exploratory Data Analysis: Global YouTube Statistics
+
+A Python-only project focused on performing EDA on a large dataset of global YouTube channels. It uncovers patterns in video performance, engagement metrics, and revenue using interactive visualizations and in-depth statistical analysis.
+
+Skills / Tools:
+
+Python (pandas, matplotlib, seaborn, plotly)
+
+Exploratory Data Analysis (EDA)
+
+Data Cleaning & Visualization
+
+🐍 Python & 📈 Tableau
+Exploratory Data Analysis: Irish Accommodations Sector
+
+Combining Python for data wrangling with Tableau for dashboarding, this project explores patterns in accommodation types and distribution across Ireland. The final outputs were visualized in a polished Tableau dashboard.
+
+Skills / Tools:
+
+Python (pandas, matplotlib)
+
+Tableau
+
+Data Cleaning & Aggregation
+
+Geo-Spatial Analysis
+
+🔚 Closing Note
+
+Feel free to explore each folder for more detail and visual samples. I'm always open to feedback or discussion—thank you for visiting my Public Projects repository!
