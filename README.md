@@ -22,7 +22,7 @@ A comprehensive machine learning project developed as part of my MSc in Data Ana
 
 ---
 
-## 📊 Power BI  
+## 📊 Business Intelligence
 ### **Financial & Sales Dashboards**  
 This section includes sample screenshots of dynamic dashboards built in Power BI for internal finance and commercial reporting. The dashboards visualise KPIs across profit & loss, sales performance, customer segments, and month-end reporting.
 
@@ -42,19 +42,6 @@ A Python-only project focused on performing EDA to uncover patterns in video per
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Exploratory Data Analysis (EDA)  
 - Data Cleaning & Visualisation  
-
----
-
-## 🐍 Python & 📈 Tableau  
-### **Exploratory Data Analysis: Irish Accommodations Sector**  
-Combining Python for data wrangling with Tableau for dashboarding, this project explores patterns in accommodation types and distribution across Ireland. The final outputs were visualised in a polished Tableau dashboard.
-
-**Skills / Tools:**  
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Tableau
-- Exploratory Data Analysis (EDA)    
-- Data Cleaning & Visualisation  
-- Geo-Spatial Analysis  
 
 ---
 
